@@ -45,7 +45,8 @@ A production-style AI system built for real estate data — featuring a full scr
 - `pandas` — data processing
 - `sentence-transformers` — semantic understanding
 - Shared memory architecture for agent communication
-
+- `groq` + `llama-3.3-70b-versatile` — LLM integration for AI market analysis
+- Token usage tracking per API call
 ---
 
 ##  How to Run
